@@ -1,5 +1,13 @@
 import socket, sys
 import time
+print("Welcome.")
+print("Tool made by Wave.")
+print("                                                                                        ")
+print("    //    ) )                                            //   ) )  // | | ||   / |  / / ")
+print("   //    / /  ___              / __     //  ___         //___/ /  //__| | ||  /  | / /  ")
+print("  //    / / //   ) ) //   / / //   ) ) // //___) )     / ___ (   / ___  | || / /||/ /   ")
+print(" //    / / //   / / //   / / //   / / // //           //   | |  //    | | ||/ / |  /    ")
+print("//____/ / ((___/ / ((___( ( ((___/ / // ((____       //    | | //     | | |  /  | /     ")
 
  # makes the first socket (tcp)
 
